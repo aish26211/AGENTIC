@@ -1,15 +1,29 @@
-# Byte-compiled / optimized / DLL files
+
+# Python cache files
 __pycache__/
 *.py[cod]
 *$py.class
 
 # Virtual environments
 .venv/
+.venv313/
 venv/
 env/
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local evidence cache
+data/cache/
 
 # macOS
 .DS_Store
 
-# Environment variables
+# Environment variables and secrets
 .env
+.env.*
+
+# Keep the example configuration file
+!.env.example

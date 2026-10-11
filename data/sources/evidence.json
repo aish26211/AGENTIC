@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ev-001",
+    "title": "Direct Tailpipe Emissions in Battery Electric Vehicles",
+    "content": "Battery electric vehicles produce zero direct tailpipe emissions during driving operation because they use electric motors powered by rechargeable battery packs instead of internal combustion engines.",
+    "tags": ["tailpipe", "zero emissions", "battery electric vehicles", "operation"]
+  },
+  {
+    "id": "ev-002",
+    "title": "Electricity Grid Generation and Indirect Emissions",
+    "content": "While electric cars have no direct exhaust emissions, charging them generates indirect greenhouse gas emissions depending on the regional energy grid mix. Grids reliant on coal or natural gas generate higher charging emissions than grids powered by renewable wind and solar energy.",
+    "tags": ["grid", "electricity generation", "indirect emissions", "renewables", "coal"]
+  },
+  {
+    "id": "ev-003",
+    "title": "Lifecycle Assessment and Battery Manufacturing",
+    "content": "Manufacturing lithium-ion battery packs requires mineral extraction and energy-intensive manufacturing processes. As a result, electric vehicles typically have higher upfront greenhouse gas emissions during the production phase than conventional gasoline cars.",
+    "tags": ["manufacturing", "lifecycle", "battery production", "minerals", "emissions"]
+  },
+  {
+    "id": "ev-004",
+    "title": "Lifetime Emissions Comparison Across Vehicle Types",
+    "content": "Over their full operational lifespan, electric vehicles typically offset higher manufacturing emissions within two to three years of normal driving, resulting in lower net lifecycle carbon emissions than comparable diesel or petrol vehicles.",
+    "tags": ["lifecycle", "comparison", "lifespan", "gasoline", "diesel", "carbon footprint"]
+  },
+  {
+    "id": "ev-005",
+    "title": "Brake Dust and Non-Exhaust Particulate Matter",
+    "content": "Non-exhaust emissions including tire wear and brake dust contribute to urban particulate pollution across all vehicle types. Regenerative braking systems in electric vehicles significantly reduce brake pad wear and associated friction dust.",
+    "tags": ["particulate matter", "regenerative braking", "brake dust", "tire wear", "air quality"]
+  },
+  {
+    "id": "ev-006",
+    "title": "Battery Recycling and End-of-Life Environmental Impact",
+    "content": "Closed-loop recycling of critical battery materials such as lithium, cobalt, and nickel decreases virgin raw material extraction needs and minimizes environmental waste during the decommissioning phase of electric vehicles.",
+    "tags": ["recycling", "battery", "end of life", "raw materials", "environmental impact"]
+  }
+]
